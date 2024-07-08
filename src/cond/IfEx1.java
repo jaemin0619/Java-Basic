@@ -19,7 +19,7 @@ public class IfEx1 {
         {
             System.out.println("학점은 D입니다.");
         }
-        else (score<60)
+        else if(score<60)
         {
             System.out.println("학점은 F입니다.");
         }
